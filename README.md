@@ -28,6 +28,10 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Sublime Text](https://img.shields.io/badge/-SUBLIME-%23575757?style=flat&logo=Sublime-text&logoColor=important)
 
+---
+### Github Stats📊
+<p align="center">
+<img align="center" src="https://streak-stats.demolab.com?user=saurabhm02&theme=burnt-neon&border_radius=6" alt="My github streak">
+</p>
 
-
-Last edited on: 06/07/2023
+Last edited on: 21/07/2023
