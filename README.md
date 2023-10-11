@@ -21,6 +21,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Tailwind](https://img.shields.io/badge/-TAILWIND-%231572B6?style=flat-square&logo=Tailwind)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-%23575757?style=flat&logo=React)
 
 #### Tools I use🛠
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
@@ -34,4 +35,4 @@
 <img align="center" src="https://streak-stats.demolab.com?user=saurabhm02&theme=burnt-neon&border_radius=6" alt="My github streak">
 </p>
 
-Last edited on: 21/07/2023
+Last edited on: 11/10/2023
