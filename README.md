@@ -8,7 +8,7 @@
 
 - 🎓 I am a *student*.
 - :school: I'm currently 3rd year student
-- 🌱 I’m currently focusing on *Web Development* everyday.
+- 🌱 I’m currently focusing on *Web Development* And *Data Structure* everyday.
 - :monocle_face: I'm interested in coding, sleeping, and watching film
 - :sunglasses: My quote is *"It's never too late - never too late to start over, never too late to be happy"* 
 
