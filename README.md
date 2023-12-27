@@ -10,7 +10,7 @@
 - :school: I'm currently 3rd year student
 - 🌱 I’m currently focusing on *Web Development* And *Data Structure* everyday.
 - :monocle_face: I'm interested in coding, sleeping, and watching film
-- :sunglasses: My quote is *"It's never too late - never too late to start over, never too late to be happy"* 
+- :sunglasses: *"It's never too late - never too late to start over, never too late to be happy"* 
 
 ---
 
@@ -18,21 +18,22 @@
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Tailwind](https://img.shields.io/badge/-TAILWIND-%231572B6?style=flat-square&logo=Tailwind)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
+![Tailwind](https://img.shields.io/badge/-TAILWIND-%231572B6?style=flat&logo=Tailwind)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-%23575757?style=flat&logo=React)
 
 #### Tools I use🛠
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 ![Sublime Text](https://img.shields.io/badge/-SUBLIME-%23575757?style=flat&logo=Sublime-text&logoColor=important)
+![Postman](https://img.shields.io/badge/-Postman-%23F05032?style=flat&logo=Postman&logoColor=%23ffffff)
 
 ---
 ### Github Stats📊
-<p align="center">
-<img align="center" src="https://streak-stats.demolab.com?user=saurabhm02&theme=burnt-neon&border_radius=6" alt="My github streak">
-</p>
 
-Last edited on: 11/10/2023
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saurabhm02&theme=github-dark)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhm02&layout=compact&theme=blue-green)
+
+Last edited on: 26/12/2023
