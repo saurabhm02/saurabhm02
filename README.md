@@ -31,6 +31,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 ![Sublime Text](https://img.shields.io/badge/-SUBLIME-%23575757?style=flat&logo=Sublime-text&logoColor=important)
+![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-%23F05032?style=flat&logo=Postman&logoColor=%23ffffff)
 
 
@@ -39,10 +40,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saurabhm02&theme=github-dark)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhm02&layout=compact&theme=blue-green)
-
-
-  <br clear="both" />
-  <img src="https://raw.githubusercontent.com/saurabhm02/saurabhm02/output/snake.svg" alt="Snake animation" /> 
 
 
 Last edited on: 10/03/2024
