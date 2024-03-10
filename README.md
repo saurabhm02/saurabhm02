@@ -6,22 +6,25 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
 
-- 🎓 I am a *student*.
-- :school: I'm currently 3rd year student
+- 🎓 I'm currently 3rd year *student*
 - 🌱 I’m currently focusing on *Web Development* And *Data Structure* everyday.
 - :monocle_face: I'm interested in coding, sleeping, and watching film
 - :sunglasses: *"It's never too late - never too late to start over, never too late to be happy"* 
 
 ---
 
-##### Languages I use
+##### Languages & Technologies I use
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
 ![Tailwind](https://img.shields.io/badge/-TAILWIND-%231572B6?style=flat&logo=Tailwind)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-%23575757?style=flat&logo=React)
+![Nodejs](https://img.shields.io/badge/Node.js-86BE00?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-007ACC?logo=react&logoColor=black&style=flat)
+![Express](https://img.shields.io/badge/-Express-181717?style=flat&logo=Express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+
 
 #### Tools I use🛠
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
@@ -30,10 +33,16 @@
 ![Sublime Text](https://img.shields.io/badge/-SUBLIME-%23575757?style=flat&logo=Sublime-text&logoColor=important)
 ![Postman](https://img.shields.io/badge/-Postman-%23F05032?style=flat&logo=Postman&logoColor=%23ffffff)
 
+
 ---
 ### Github Stats📊
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saurabhm02&theme=github-dark)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhm02&layout=compact&theme=blue-green)
 
-Last edited on: 26/12/2023
+
+  <br clear="both" />
+  <img src="https://raw.githubusercontent.com/saurabhm02/saurabhm02/output/snake.svg" alt="Snake animation" /> 
+
+
+Last edited on: 10/03/2024
