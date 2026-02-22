@@ -6,11 +6,11 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
 
-- 🎓 I'm currently 3rd year *student*
-- 🌱 I’m currently focusing on *Web Development* And *Data Structure* everyday.
-- :monocle_face: I'm interested in coding, sleeping, and watching film
-- :sunglasses: *"It's never too late - never too late to start over, never too late to be happy"* 
-
+- 🎓 Computer Science Graduate | Software Developer
+- 🚀 Building backend services, REST APIs, and web applications.
+- 💡 Interested in scalable systems, distributed architecture, and problem solving.
+- 🧠 Practicing DSA and improving engineering fundamentals daily.
+- ⚡ Turning ideas into production-ready code.
 ---
 
 ##### Languages & Technologies I use
