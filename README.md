@@ -64,12 +64,12 @@ I'm a Software Engineer building backend systems, data pipelines, and LLM-powere
 
 ### GitHub Stats
 
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saurabhm02&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=saurabhm02&theme=default&hide_border=true" height="165" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhm02&layout=compact&theme=default&hide_border=true" height="165" alt="Top Languages" />
+### Github Stats📊
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saurabhm02&theme=github-dark)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhm02&layout=compact&theme=blue-green)
 
 </div>
 
